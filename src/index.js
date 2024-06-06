@@ -1,6 +1,8 @@
 import "./index.css";
 import $ from "jquery";
 
+console.log("测试文字1");
+
 //圆形对象属性
 const ball = {x:350,y:350,r:50,index:0,id:'暂无手柄连接'};
 
